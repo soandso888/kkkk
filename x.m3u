@@ -1,3 +1,68 @@
 ﻿#EXTM3U
 #EXTINF:-1 ,翡翠台4K
 http://o11.163189.xyz/stream/tvb/fct4k/
+
+
+#EXTM3U
+#EXTINF:-1 ,翡翠台字幕
+http://mytv.cdn.loc.cc/o12.php?id=fct
+
+#EXTM3U
+#EXTINF:-1 ,明珠台字幕
+http://mytv.cdn.loc.cc/o12.php?id=mzt
+
+#EXTM3U
+#EXTINF:-1 ,翡翠台4K(多音轨字幕)
+https://o11.163189.xyz/stream/tvb/fct4k/
+
+#EXTM3U
+#EXTINF:-1 ,翡翠台(多音轨字幕)
+https://o11.163189.xyz/stream/tvb/fct/
+
+#EXTM3U
+#EXTINF:-1 ,TVB PLUS(多音轨字幕)
+https://o11.163189.xyz/stream/tvb/tvbp/
+
+#EXTM3U
+#EXTINF:-1 ,明珠台(多音轨字幕)
+https://o11.163189.xyz/stream/tvb/mzt/
+
+#EXTM3U
+#EXTINF:-1 ,华丽翡翠台(多音轨字幕)
+https://o11.163189.xyz/stream/live/hlt/
+
+#EXTM3U
+#EXTINF:-1 ,华丽翡翠台(新加坡)
+https://o11.163189.xyz/stream/live/jade/
+
+#EXTM3U
+#EXTINF:-1 ,Astro AOD(多音轨字幕)
+https://o11.163189.xyz/stream/live/aod/
+
+#EXTM3U
+#EXTINF:-1 ,Astro AEC(多音轨字幕)
+https://o11.163189.xyz/stream/live/aec/
+
+#EXTM3U
+#EXTINF:-1 ,Astro QJ(多音轨字幕)
+https://o11.163189.xyz/stream/live/qj/
+
+#EXTM3U
+#EXTINF:-1 ,TVB星河(多音轨字幕)
+https://o11.163189.xyz/stream/live/tvbxh/
+
+#EXTM3U
+#EXTINF:-1 ,爱奇艺
+https://o11.163189.xyz/stream/live/iqiyi/
+
+#EXTM3U
+#EXTINF:-1 ,千禧经典台
+https://o11.163189.xyz/stream/live/tvbc/
+
+#EXTM3U
+#EXTINF:-1 ,天映频道
+https://o11.163189.xyz/stream/live/typd/
+
+#EXTM3U
+#EXTINF:-1 ,天映经典
+https://o11.163189.xyz/stream/live/ccm/
