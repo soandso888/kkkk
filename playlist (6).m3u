@@ -1,5 +1,2 @@
-#EXTM3U x-tvg-url=""
-
-#EXTINF:1 group-title="hugo" tvg-id="hugo/fct4k" tvg-logo="" provider="hugo" provider-logo="" provider-type="iptv",JUHD [hugo]
+#EXTINF:1 tvg-id="JUHD" tvg-logo="",JUHD
 http://107.174.64.165:18484/stream/hugo/fct4k/master.m3u8?u=admin&p=8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918
-
