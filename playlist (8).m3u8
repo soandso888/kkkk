@@ -1,0 +1,11 @@
+#EXTM3U x-tvg-url=""
+
+#EXTINF:1 group-title="mytv" tvg-id="mytv/juhd" tvg-logo="" provider="mytv" provider-logo="" provider-type="iptv",JUHD [mytv]
+http://192.168.5.168:6699/stream/mytv/juhd/master.m3u8?u=suandsu&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:2 group-title="mytv" tvg-id="mytv/actionhollywoodmovies" tvg-logo="" provider="mytv" provider-logo="" provider-type="iptv",Love-Nature-4K-HK [mytv]
+http://192.168.5.168:6699/stream/mytv/actionhollywoodmovies/master.m3u8?u=suandsu&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+#EXTINF:3 group-title="mytv" tvg-id="mytv/null" tvg-logo="" provider="mytv" provider-logo="" provider-type="iptv",千禧经典台 [mytv]
+http://192.168.5.168:6699/stream/mytv/null/master.m3u8?u=suandsu&p=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
