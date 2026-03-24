@@ -1,0 +1,17 @@
+#EXTM3U x-tvg-url=""
+
+#EXTINF:1 group-title="tk2" tvg-id="tk2/fct4k" tvg-logo="" provider="tk2" provider-logo="" provider-type="iptv",fct4k [tk2]
+http://82.22.99.160:6699/stream/tk2/fct4k/master.m3u8?u=admin&p=4b5b5d0d538af592d114eba08a2b6a661bc02199ec4bede212ecd8287fe37a07
+
+#EXTINF:2 group-title="tk2" tvg-id="tk2/news" tvg-logo="" provider="tk2" provider-logo="" provider-type="iptv",news [tk2]
+http://82.22.99.160:6699/stream/tk2/news/master.m3u8?u=admin&p=4b5b5d0d538af592d114eba08a2b6a661bc02199ec4bede212ecd8287fe37a07
+
+#EXTINF:3 group-title="tk2" tvg-id="tk2/jade" tvg-logo="" provider="tk2" provider-logo="" provider-type="iptv",Jade [tk2]
+http://82.22.99.160:6699/stream/tk2/jade/master.m3u8?u=admin&p=4b5b5d0d538af592d114eba08a2b6a661bc02199ec4bede212ecd8287fe37a07
+
+#EXTINF:4 group-title="tk2" tvg-id="tk2/plus" tvg-logo="" provider="tk2" provider-logo="" provider-type="iptv",plus [tk2]
+http://82.22.99.160:6699/stream/tk2/plus/master.m3u8?u=admin&p=4b5b5d0d538af592d114eba08a2b6a661bc02199ec4bede212ecd8287fe37a07
+
+#EXTINF:5 group-title="tk2" tvg-id="tk2/pearl" tvg-logo="" provider="tk2" provider-logo="" provider-type="iptv",pearl [tk2]
+http://82.22.99.160:6699/stream/tk2/pearl/master.m3u8?u=admin&p=4b5b5d0d538af592d114eba08a2b6a661bc02199ec4bede212ecd8287fe37a07
+
